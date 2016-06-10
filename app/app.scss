@@ -1,0 +1,36 @@
+
+@import "_variables.scss";
+@import url('~/platform.css');
+
+Page {
+  background-color: #fff;
+  font-size: 17;
+}
+ActionBar {
+  color: #fff;
+  background-color: $c-primary;
+}
+TextField {
+  margin: 10;
+  padding: 10;
+}
+Image {
+  margin-top: 20;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 80;
+}
+Button {
+  margin: 10;
+  padding: 10;
+  color: #fff;
+  background-color: $c-primary;
+  &.link{
+    color: $c-primary;
+    background-color: #fff;
+    border-width: 1;
+    border-style: solid;
+    border-color: $c-primary;
+    border-radius: 2;
+  }
+}

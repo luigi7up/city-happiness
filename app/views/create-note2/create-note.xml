@@ -1,0 +1,21 @@
+<Page loaded="loaded">
+  <Page.actionBar>
+    <ActionBar title="New note"></ActionBar>
+  </Page.actionBar>
+  <ScrollView>
+    <StackLayout>
+      <TextField id="title" text="{{ title }}" hint="Title" />
+      <TextField id="description" text="{{ description }}" hint="Description" />
+      <Button text="Add photo" tap="takePhoto" />
+      <Repeater items="{{ images }}">
+        <Repeater.itemTemplate>
+          <!-- <Label text="{{ src }}" /> -->
+
+          <Image src="{{ imageSource }}" />
+        </Repeater.itemTemplate>
+      </Repeater>
+      <Button text="Save" tap="save" />
+
+    </StackLayout>
+  </ScrollView>
+</Page>
