@@ -1,0 +1,5 @@
+<AbsoluteLayout >
+  <!-- <Label id="Label1" /> -->
+  <Image src="res://slider_circle" stretch="none"/>
+  <Button text="Click!" tap="buttonTap" />
+</AbsoluteLayout>

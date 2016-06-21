@@ -1,0 +1,75 @@
+@import "_variables.scss";
+
+Page{
+    text-align: center;
+}
+ListView {
+    margin: 5;
+    opacity: 0.2;
+}
+Label {
+    margin: 10;
+    horizontal-align: left;
+    vertical-align: center;
+}
+TextField {
+    border-width: 5;
+    border-style: solid;
+    border-color: #034793;
+}
+Image {
+    margin: 10;
+    background: red;
+}
+/*Button {
+    horizontal-align: center;
+    margin: 5;
+    color: white;
+    border-radius:50;
+    border-color: #fff;
+    border-width: 8;
+    height: 50;
+    width: 50;
+    background-color: $c-primary-dark;
+    background-repeat : no-repeat;
+    background-position : left center;
+
+}*/
+Label.slidernob{
+    horizontal-align: center;
+    // margin: 5;
+    color: white;
+    border-radius:50;
+    border-color: #fff;
+    border-width: 8;
+    height: 50;
+    width: 50;
+    background-color: $c-primary-dark;
+    background-repeat : no-repeat;
+    background-position : left center;
+    z-index: 1;
+}
+Label.sliderbackground{
+    height:98%;
+    width:20;
+    z-index: 0;
+    background-color: #fff;
+    border-color: $c-primary-dark;
+    border-width: 2;
+    border-radius: 50;
+}
+Label.status-value{
+    color: #fff;
+    width: 100%;
+    text-align: center;
+}
+Label.value{
+    font-size: 40;
+}
+AbsoluteLayout{
+    /*background-color: #fff;
+    border-color: $c-primary-dark;
+    border-width: 2;
+    border-radius: 50;*/
+    /*padding-top: 10;*/
+}

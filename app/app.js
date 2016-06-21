@@ -1,3 +1,3 @@
 var applicationModule = require("application");
-applicationModule.mainModule = "views/list/list";
+applicationModule.mainModule = "views/create-status/create-status";
 applicationModule.start();

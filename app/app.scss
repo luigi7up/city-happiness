@@ -1,14 +1,14 @@
 
-@import "_variables.scss";
 @import url('~/platform.css');
+@import "_variables.scss";
 
 Page {
-  background-color: #fff;
+  background-color: $c-primary;
   font-size: 17;
 }
 ActionBar {
   color: #fff;
-  background-color: $c-primary;
+  background-color: $c-primary-dark;
 }
 TextField {
   margin: 10;
@@ -21,16 +21,16 @@ Image {
   margin-bottom: 80;
 }
 Button {
-  margin: 10;
+  // margin: 10;
   padding: 10;
   color: #fff;
-  background-color: $c-primary;
+  background-color: $c-secondary;
   &.link{
-    color: $c-primary;
+    color: $c-secondary;
     background-color: #fff;
     border-width: 1;
     border-style: solid;
-    border-color: $c-primary;
+    border-color: $c-secondary;
     border-radius: 2;
   }
 }

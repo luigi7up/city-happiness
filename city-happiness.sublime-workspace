@@ -1,0 +1,2198 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"console"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"get",
+				"getValue"
+			],
+			[
+				"new",
+				"newPosition"
+			],
+			[
+				"page",
+				"pageContainer"
+			],
+			[
+				"scro",
+				"scrollContainerHeight"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"ge",
+				"getViewById"
+			],
+			[
+				"view",
+				"viewModule"
+			],
+			[
+				"delta",
+				"deltaY"
+			],
+			[
+				"baa",
+				"background-repeat"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"text-li",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"c-",
+				"c-orange-dark"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"slide",
+				"slide-it-in"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"electri",
+				"electricity"
+			],
+			[
+				"prop",
+				"propositions"
+			],
+			[
+				"Com",
+				"Compara"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"S",
+				"Seguros"
+			],
+			[
+				"cert",
+				"certificado-energetico"
+			],
+			[
+				"segu",
+				"seguros-vida"
+			],
+			[
+				"saving",
+				"saving_box_gss"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"borde",
+				"border-right"
+			],
+			[
+				"block",
+				"block_given"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"homp",
+				"homepage__top_box"
+			],
+			[
+				"home",
+				"homepage"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fina",
+				"finanzas"
+			],
+			[
+				"I",
+				"internet_telefonia"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"ove",
+				"overflow-y"
+			],
+			[
+				"hea",
+				"header-l1-color"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"opa",
+				"opacity	opacity()"
+			],
+			[
+				"In",
+				"internet"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"inte",
+				"internet"
+			],
+			[
+				"prov",
+				"provider_name"
+			],
+			[
+				"set",
+				"set_product_slug"
+			],
+			[
+				"resou",
+				"resource"
+			],
+			[
+				"tel",
+				"Telefonía"
+			],
+			[
+				"Comu",
+				"Comunicaciones"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"margio",
+				"margin-top"
+			],
+			[
+				"opac",
+				"opacity"
+			],
+			[
+				"selecte",
+				"selectedTariff"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"mobi",
+				"mobile-sandwich"
+			],
+			[
+				"inc",
+				"include	@include"
+			],
+			[
+				"seguros",
+				"seguros-coche"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"set_fi",
+				"set_filters_and_providers"
+			],
+			[
+				"devi",
+				"devices_map"
+			],
+			[
+				"device",
+				"device_offers"
+			],
+			[
+				"or",
+				"originalCollection"
+			],
+			[
+				"js",
+				"json"
+			],
+			[
+				"under",
+				"underline"
+			],
+			[
+				"text-de",
+				"text-decoration"
+			],
+			[
+				"module",
+				"module_type"
+			],
+			[
+				"modu",
+				"module_type"
+			],
+			[
+				"find",
+				"find_modules"
+			],
+			[
+				"sub",
+				"subproducts"
+			],
+			[
+				"mod",
+				"module_type"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"loa",
+				"load_tenancy_deals"
+			],
+			[
+				"tablet",
+				"tablet-landscape-and-up"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"tabl",
+				"tablet-landscape-and-up"
+			],
+			[
+				"nt",
+				"nth-omega"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"tans",
+				"transparent"
+			],
+			[
+				"seguro",
+				"seguro-name"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"se",
+				"seguro-name"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"part",
+				"partner_assets"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"sha",
+				"box-shadow"
+			],
+			[
+				"partial",
+				"partial_name"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"containe",
+				"container-header"
+			],
+			[
+				"erro",
+				"error_red"
+			],
+			[
+				"shade",
+				"comms_shaded_white_2"
+			],
+			[
+				"blue",
+				"blue-from-comms"
+			],
+			[
+				"button",
+				"button-green"
+			],
+			[
+				"nth",
+				"nth-child"
+			],
+			[
+				"tabler",
+				"tablet-portrait-and-up"
+			],
+			[
+				"blu",
+				"blue-from-comms"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"bott",
+				"border-bottom"
+			],
+			[
+				"bb",
+				"bb"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"telefonia-",
+				"telefonia-movil-prepago"
+			],
+			[
+				"segur",
+				"seguros"
+			],
+			[
+				"seg",
+				"seguros-hogar"
+			],
+			[
+				"seguros-",
+				"seguros-salud"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"lig",
+				"light_grey"
+			],
+			[
+				"mo",
+				"monetize_dynamic_module"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ho",
+				"hoveringDelay"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"post",
+				"postal_code"
+			],
+			[
+				"with",
+				"with_line_rental"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Viajes Guamá-Havanatur\ndiana.messi74@gmail.com\ncasa en trinidad\npuedes ver las referencias en tripadvisor es la que te digo que cocina de puta madre\nella te arregla la casa en trinidad y los taxis de havana y de viñales a trinidad\n\n\n\namecha2443@yahoo.es\nesta es la casa de varadero vale 40 cucs por persona la habitacion\nesta genial con su neverita y todo en la habitacion\ntodas tienen aire acondicinado y el baño está bastante guay\nles puedes decir que vienes de nuestra parte, 3 españolas que estuvimos hace nada ( una gallega, una vasca y una madrileña) jjee\nla de varadero se llama rancho orlando\ny la de de trinidad casa del campesino",
+			"settings":
+			{
+				"buffer_size": 639,
+				"line_ending": "Unix",
+				"name": "Viajes Guamá-Havanatur"
+			}
+		},
+		{
+			"file": "app/shared/config.js",
+			"settings":
+			{
+				"buffer_size": 476,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/create-statusXXX/create-status.js",
+			"settings":
+			{
+				"buffer_size": 4007,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/shared/view-models/status-view-model.js",
+			"settings":
+			{
+				"buffer_size": 2624,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "JS: ERR: http://10.0.3.2:3000\nJS: TypeError: Network request failed\nJS: ERR: http://10.0.3.3:3000\nJS: TypeError: Network request failed\n\n\n\nJS: Fetching: http://10.0.3.2\nJS: [object Object]\nJS: Fetching: http://10.0.3.2:8080\nJS: [object Object]\n\n\nJS: ERR: http://192.168.56.1:3000\nJS: TypeError: Network request failed\nJS: Fetching: http://10.0.3.3\nJS: [object Object]\nJS: Fetching: http://192.168.56.1:8080\nJS: [object Object]\nJS: Fetching: http://192.168.56.1\nJS: [object Object]",
+			"settings":
+			{
+				"buffer_size": 480,
+				"line_ending": "Unix",
+				"name": "JS: ERR: http://10.0.3.2:3000"
+			}
+		},
+		{
+			"contents": "ips = [\"http://10.0.3.2\", \"http://10.0.3.3\", \"http://10.0.3.2:8080\", \"http://192.168.56.1:8080\", \"http://192.168.56.1\"]",
+			"settings":
+			{
+				"buffer_size": 119,
+				"line_ending": "Unix",
+				"name": "ips = [\"http://10.0.3.2\", \"http://10.0.3.3\", \"http"
+			}
+		},
+		{
+			"contents": "ips = [\"http://10.0.3.2\",\n\"http://10.0.3.2:3000\",\n\"http://10.0.3.2:8080\",\n\"http://10.0.3.3\",\n\"http://10.0.3.3:3000\",\n\"http://192.168.56.1\",\n\"http://192.168.56.1:3000\"]",
+			"settings":
+			{
+				"buffer_size": 167,
+				"line_ending": "Unix",
+				"name": "ips = [\"http://10.0.3.2\","
+			}
+		},
+		{
+			"contents": "Searching 96 files for \".each\"\n\n/Users/luka/projects/city-happiness/app/shared/view-models/status-view-model.js:\n   27  \n   28  \n   29:     ips.each\n   30      fetch(config.apiUrl+\"happinesses\").then(function (r) {\n   31          console.dir(r)\n\n1 match in 1 file\n\n\nSearching 96 files for \"each\"\n\n/Users/luka/projects/city-happiness/app/shared/view-models/note-view-model.js:\n   26          console.dir(imageSources);\n   27  \n   28:         imageSources.forEach(function(val, index){\n   29          console.log(\"BBBB\");\n   30            console.dir(val);\n\n/Users/luka/projects/city-happiness/app/shared/view-models/notes-list-view-model.js:\n   20          try{\n   21            console.log(\"try\")\n   22:           data.notes.forEach(function(note) {\n   23              viewModel.push({\n   24                id: note.id,\n\n/Users/luka/projects/city-happiness/app/shared/view-models/status-view-model.js:\n   27  \n   28  \n   29:     ips.each\n   30      fetch(config.apiUrl+\"happinesses\").then(function (r) {\n   31          console.dir(r)\n\n/Users/luka/projects/city-happiness/app/views/note-details/note-details.js:\n   22      note = new NoteViewModel(currentNote);\n   23  \n   24:     note.images.forEach(function(val, index){\n   25        console.log(\"INDEX\")\n   26        console.log(index)\n\n4 matches across 4 files\n",
+			"settings":
+			{
+				"buffer_size": 1314,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/luka/projects/city-happiness-api/config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 404,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/luka/Desktop/Few days ago my nativescript app (emulated in Geny",
+			"settings":
+			{
+				"buffer_size": 1029,
+				"line_ending": "Unix",
+				"name": "Few days ago my nativescript app (emulated in Geny"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: is",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 482.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/luka/projects/city-happiness",
+		"/Users/luka/projects/city-happiness/app",
+		"/Users/luka/projects/city-happiness/app/shared",
+		"/Users/luka/projects/city-happiness/app/shared/view-models",
+		"/Users/luka/projects/city-happiness/app/views",
+		"/Users/luka/projects/city-happiness/app/views/note-details",
+		"/Users/luka/projects/city-happiness-api"
+	],
+	"file_history":
+	[
+		"/Users/luka/projects/city-happiness-api/config/routes.rb",
+		"/Users/luka/projects/city-happiness/app/shared/view-models/note-view-model.js",
+		"/Users/luka/projects/city-happiness/app/shared/view-models/status-view-model.js",
+		"/Users/luka/projects/city-happiness-api/app/controllers/api/v1/happinesses_controller.rb",
+		"/Users/luka/projects/city-happiness-api/config.ru",
+		"/Users/luka/projects/city-happiness-api/Gemfile",
+		"/Users/luka/projects/city-happiness-api/app/models/happiness.rb",
+		"/Users/luka/projects/city-happiness/app/views/create-statusXXX/create-status.xml",
+		"/Users/luka/projects/city-happiness/app/shared/config.js",
+		"/Users/luka/projects/city-happiness/platforms/android/build/intermediates/blame/res/F0F1/debug/multi/values-cs.json",
+		"/Users/luka/projects/city-happiness/platforms/android/build/intermediates/blame/res/F0F1/debug/multi/values-af.json",
+		"/Users/luka/projects/city-happiness/package.json",
+		"/Users/luka/projects/city-happiness/platforms/android/settings.gradle",
+		"/Users/luka/projects/city-happiness/app/app.js",
+		"/Users/luka/projects/city-happiness/app/views/create-statusXXX/create-status.js",
+		"/Users/luka/projects/city-happiness/app/views/create-statusXXX/create-status.scss",
+		"/Users/luka/projects/city-happiness/app/app.scss",
+		"/Users/luka/projects/city-happiness/app/_variables.scss",
+		"/Users/luka/projects/city-happiness/app/App_Resources/Android/AndroidManifest.xml",
+		"/Users/luka/projects/city-happiness/README.md",
+		"/Users/luka/projects/city-happiness/app/views/create-statusXX/create-status.scss",
+		"/Users/luka/projects/city-happiness/app/views/__create-note2/create-note.xml",
+		"/Users/luka/projects/city-happiness/app/views/__create-status2/create-status.js",
+		"/Users/luka/projects/city-happiness/app/app.css",
+		"/Users/luka/projects/city-happiness/app/views/__create-status2/create-status.css",
+		"/Users/luka/projects/city-happiness/app/xml-declaration/verticalslider/VerticalSlider.js",
+		"/Users/luka/projects/city-happiness/app/xml-declaration/verticalslider/VerticalSlider.xml",
+		"/Users/luka/projects/city-happiness/app/views/create-status/create-status.js",
+		"/Users/luka/projects/city-happiness/app/views/create-status/create-status.css",
+		"/Users/luka/projects/city-happiness/app/views/create-status2/create-status.js",
+		"/Users/luka/projects/city-happiness/app/views/create-status2/create-status.xml",
+		"/Users/luka/projects/city-happiness/app/xml-declaration/vertical-slider/VerticalSlider.xml",
+		"/Users/luka/projects/city-happiness/app/xml-declaration/vertical-slider/VerticalSlider.js",
+		"/Users/luka/kelisto/kelisto-comms/app/helpers/redirect_helper.rb",
+		"/Users/luka/kelisto/kelisto-comms/app/assets/javascripts/comms/comms_tables_backbone/comparison_table_view.coffee",
+		"/Users/luka/kelisto/kelisto-comms/app/views/communications/shared/_adsl_table.haml",
+		"/Users/luka/kelisto/kelisto-comms/app/views/communications/shared/_redirect_link.haml",
+		"/Users/luka/kelisto/kelisto-comms/app/assets/javascripts/comms/comms_comparison.coffee",
+		"/Users/luka/kelisto/kelisto-comms/app/views/communications/_adsl.haml",
+		"/Users/luka/kelisto/kelisto-comms/app/views/communications/_table.haml",
+		"/Users/luka/kelisto/kelisto-comms/app/views/communications/show.haml",
+		"/Users/luka/kelisto/kelisto-comms/app/assets/javascripts/comms/call_me_back_links.coffee",
+		"/Users/luka/kelisto/kelisto-comms/app/views/communications/shared/_adsl_layout.haml",
+		"/Users/luka/kelisto/kelisto-comms/app/assets/javascripts/application_provider_landing_pages.js.coffee",
+		"/Users/luka/kelisto/kelisto-comms/app/helpers/communications_helper.rb",
+		"/Users/luka/kelisto/kelisto-comms/app/views/offer_landing_pages/_jazztel_footer.haml",
+		"/Users/luka/kelisto/kelisto-comms/app/views/offer_landing_pages/show.haml",
+		"/Users/luka/kelisto/kelisto-comms/app/assets/stylesheets/application_provider_landing_pages.css.scss",
+		"/Users/luka/kelisto/kelisto-comms/app/controllers/api/v2/cmb_controller.rb",
+		"/Users/luka/kelisto/kelisto-comms/app/views/layouts/offer_landing_pages.haml",
+		"/Users/luka/kelisto/kelisto-comms/Gemfile",
+		"/Users/luka/kelisto/kelisto-comms/app/controllers/redirect_controller.rb",
+		"/Users/luka/kelisto/kelisto-comms/config/routes.rb",
+		"/Users/luka/kelisto/kelisto-comms/config/application.rb",
+		"/Users/luka/kelisto/kelisto/app/assets/javascripts/application.js",
+		"/Users/luka/kelisto/kelisto/spec/support/features/comms_api_helpers.rb",
+		"/Users/luka/kelisto/kelisto-comms/app/views/offer_landing_pages/_jazztel_callmeback_js.haml",
+		"/Users/luka/kelisto/kelisto-comms/app/assets/stylesheets/modules/index.scss",
+		"/Users/luka/kelisto/kelisto-comms/app/views/layouts/_webfont_loader.haml",
+		"/Users/luka/kelisto/kelisto-comms/app/assets/stylesheets/modules/_offer_landing_pages.scss",
+		"/Users/luka/kelisto/kelisto-comms/app/assets/stylesheets/application.css.scss",
+		"/Users/luka/kelisto/kelisto/app/views/layouts/_async_fonts.haml",
+		"/Users/luka/kelisto/kelisto-comms/app/views/offer_landing_pages/_jazztel_header.haml",
+		"/Users/luka/kelisto/kelisto-comms/app/views/layouts/_async_fonts.haml",
+		"/Users/luka/kelisto/kelisto-comms/app/controllers/offer_landing_pages_controller.rb",
+		"/Users/luka/kelisto/kelisto-comms/app/assets/stylesheets/global/_forms.scss",
+		"/Users/luka/kelisto/kelisto-comms/app/views/offer_landing_pages/_orange_header.haml",
+		"/Users/luka/kelisto/kelisto-comms/app/views/offer_landing_pages/_orange_footer.haml",
+		"/Users/luka/kelisto/kelisto/Gemfile",
+		"/Users/luka/kelisto/kelisto-comms/app/views/layouts/application.haml",
+		"/Users/luka/kelisto/kelisto-comms/app/views/shared/_visual_web_optimizer.html",
+		"/Users/luka/kelisto/kelisto-comms/app/controllers/mi_kelisto_controller.rb",
+		"/Users/luka/kelisto/kelisto-pf-frontend/app/views/mortgages/shared/_form_explanation.html.haml",
+		"/Users/luka/kelisto/kelisto-pf-frontend/app/controllers/mortgages/help_processes_controller.rb",
+		"/Users/luka/kelisto/kelisto-pf-frontend/app/views/mortgages/help_processes/new.html.haml",
+		"/Users/luka/kelisto/kelisto-pf-frontend/app/assets/stylesheets/v2/modules/landing_ks/_gss.scss",
+		"/Users/luka/kelisto/kelisto-pf-frontend/app/views/layouts/landing_page.html.haml",
+		"/Users/luka/kelisto/kelisto-pf-frontend/config/initializers/berepublic.rb",
+		"/Users/luka/kelisto/header_footer/lib/header_footer/version.rb",
+		"/Users/luka/kelisto/header_footer/app/assets/stylesheets/header/_header_v2.css.scss",
+		"/Users/luka/kelisto/header_footer/app/assets/javascripts/header/kelisto_navigation.coffee",
+		"/Users/luka/kelisto/header_footer/app/views/header/_header.html.haml",
+		"/Users/luka/kelisto/header_footer/app/assets/stylesheets/header/index.css.scss",
+		"/Users/luka/kelisto/kelisto-assets/app/assets/javascripts/navigation.coffee",
+		"/Users/luka/kelisto/kelisto/app/views/refinery/pages/_home_top_box.html.haml",
+		"/Users/luka/kelisto/kelisto/app/assets/stylesheets/v2/modules/homepage/_homepage_shared.scss",
+		"/Users/luka/kelisto/kelisto/app/assets/stylesheets/v2/modules/shared/_base.scss",
+		"/Users/luka/kelisto/kelisto/app/views/homepage/_homepage_how_it_works.haml",
+		"/Users/luka/kelisto/kelisto/spec/features/mixpanel_spec.rb",
+		"/Users/luka/kelisto/kelisto/vendor/extensions/landing_pages/app/views/refinery/landing_pages/landing_pages/_comunidad.haml",
+		"/Users/luka/kelisto/kelisto/app/views/homepage/_homepage_top_box_mortgage.haml",
+		"/Users/luka/kelisto/kelisto/app/views/homepage/_homepage_top_box_prestamos.haml",
+		"/Users/luka/kelisto/kelisto/app/views/homepage/_homepage_top_box_mobile.haml",
+		"/Users/luka/kelisto/kelisto/app/views/homepage/_homepage_top_box_loans.haml",
+		"/Users/luka/kelisto/kelisto/app/views/homepage/_homepage_top_box_internet.haml",
+		"/Users/luka/kelisto/kelisto/app/views/homepage/_homepage_top_box_electricity.haml",
+		"/Users/luka/kelisto/kelisto/app/views/homepage/_homepage_top_box_car_insurance.haml",
+		"/Users/luka/kelisto/kelisto/app/views/homepage/_homepage_top_box_accounts.haml",
+		"/Users/luka/kelisto/kelisto/app/views/layouts/application_full_width.haml",
+		"/Users/luka/kelisto/kelisto/app/views/layouts/application.haml",
+		"/Users/luka/kelisto/cookies_eu/app/views/cookies_eu/_cookies_eu.html.erb",
+		"/Users/luka/kelisto/cookies_eu/app/assets/stylesheets/cookies_eu.css.scss",
+		"/Users/luka/kelisto/cookies_eu/lib/cookies_eu/version.rb",
+		"/Users/luka/kelisto/kelisto/app/assets/javascripts/homepage.coffee",
+		"/Users/luka/kelisto/kelisto/app/assets/stylesheets/v2/modules/homepage/_homepage_top_module.scss",
+		"/Users/luka/kelisto/kelisto/app/assets/javascripts/kelisto_tracking/kelisto.js.coffee",
+		"/Users/luka/kelisto/kelisto/app/assets/javascripts/modules/article_comms_filters.coffee",
+		"/Users/luka/kelisto/kelisto/app/assets/javascripts/modules/comms/comms_postcode.coffee",
+		"/Users/luka/kelisto/kelisto/app/views/homepage/_homepage_top_box.haml",
+		"/Users/luka/kelisto/kelisto/app/assets/stylesheets/v2/global/_animate.scss",
+		"/Users/luka/kelisto/kelisto/app/assets/stylesheets/v2/modules/product_pages/_top_box.scss",
+		"/Users/luka/kelisto/kelisto/app/views/refinery/pages/home.html.haml",
+		"/Users/luka/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/luka/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/luka/kelisto/kelisto/spec/spec_helper.rb",
+		"/Users/luka/kelisto/kelisto/spec/rack/seo_redirect_spec.rb",
+		"/Users/luka/Desktop/index.html",
+		"/Users/luka/kelisto/kelisto/app/helpers/page_helper.rb",
+		"/Users/luka/kelisto/kelisto/config/environments/development.rb",
+		"/Users/luka/kelisto/kelisto/config/environments/test.rb",
+		"/Users/luka/kelisto/kelisto/app/helpers/tenancy_deals_helper.rb",
+		"/Users/luka/kelisto/header_footer/app/helpers/header_footer_helper.rb",
+		"/Users/luka/kelisto/kelisto/app/views/energy/_subproduct_top_module.haml",
+		"/Users/luka/kelisto/kelisto/app/mappers/finance_product_configurator.rb",
+		"/Users/luka/kelisto/kelisto/app/mappers/comms_product_configurator.rb",
+		"/Users/luka/kelisto/kelisto/app/models/refinery/page.rb",
+		"/Users/luka/kelisto/kelisto/spec/support/features/mixpanel_helpers.rb",
+		"/Users/luka/kelisto/kelisto/app/models/mixpanel/kelisto_mixpanel.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/luka/projects/city-happiness/app",
+			"/Users/luka/projects/city-happiness-api",
+			"/Users/luka/projects/city-happiness",
+			"/Users/luka/kelisto/kelisto-comms/app/assets/javascripts/comms",
+			"/Users/luka/kelisto/kelisto-comms/",
+			"/Users/luka/kelisto/kelisto-comms/,*coffee",
+			"/Users/luka/kelisto/kelisto-comms/",
+			"/Users/luka/kelisto/kelisto-comms/,*coffee",
+			"/Users/luka/kelisto/kelisto/,*haml",
+			"/Users/luka/kelisto/kelisto/",
+			"/Users/luka/kelisto/kelisto/, *coffee",
+			"/Users/luka/kelisto/kelisto/, *haml",
+			"/Users/luka/kelisto/kelisto-comms/, *haml",
+			"/Users/luka/kelisto/kelisto-comms/, *rb",
+			"/Users/luka/kelisto/kelisto/, *scss",
+			"/Users/luka/kelisto/kelisto/, *haml",
+			"/Users/luka/kelisto/kelisto-comms/app/assets/stylesheets",
+			"/Users/luka/kelisto/kelisto-comms",
+			"/Users/luka/kelisto/kelisto-pf-frontend",
+			"/Users/luka/kelisto, *haml",
+			"/Users/luka/kelisto, *HAML",
+			"/Users/luka/kelisto, *js",
+			"/Users/luka/kelisto/kelisto, *js",
+			"/Users/luka/kelisto/kelisto, *scss",
+			"/Users/luka/kelisto/kelisto, *haml",
+			"/Users/luka/kelisto/",
+			"/Users/luka/kelisto/header_footer",
+			"/Users/luka/kelisto/kelisto/,*coffee",
+			"/Users/luka/kelisto/kelisto/,*rb",
+			"/Users/luka/kelisto/header_footer/,*rb",
+			"/Users/luka/kelisto/kelisto/,*rb",
+			"/Users/luka/kelisto/header_footer/,*rb",
+			"/Users/luka/kelisto/kelisto/,*rb",
+			"/Users/luka/kelisto/header_footer/,*rb",
+			"/Users/luka/kelisto/kelisto/,*rb",
+			"/Users/luka/kelisto/kelisto/spec",
+			"/Users/luka/kelisto/header_footer",
+			"/Users/luka/kelisto/header_footer, *rb",
+			"/Users/luka/kelisto/kelisto, *rb",
+			"/Users/luka/kelisto/kelisto, *haml",
+			"/Users/luka/kelisto/kelisto, *rb",
+			"/Users/luka/kelisto/kelisto, *haml",
+			"/Users/luka/kelisto/kelisto, *scss",
+			"/Users/luka/kelisto/kelisto, *coffee",
+			"/Users/luka/kelisto/header_footer/app",
+			"/Users/luka/kelisto/kelisto, *rb",
+			"/Users/luka/kelisto/header_footer, *coffee",
+			"/Users/luka/kelisto/kelisto, *scss",
+			"/Users/luka/kelisto/kelisto, *coffee",
+			"/Users/luka/kelisto/kelisto, *scss",
+			"/Users/luka/kelisto/, *Gemfile",
+			"/Users/luka/kelisto/",
+			"/Users/luka/kelisto/header_footer",
+			"/Users/luka/kelisto/,*coffee",
+			"/Users/luka/kelisto/,*js",
+			"/Users/luka/kelisto/,*coffee",
+			"/Users/luka/kelisto/, *coffee",
+			"/Users/luka/kelisto/header_footer, *coffee",
+			"/Users/luka/kelisto/header_footer, *rb",
+			"/Users/luka/kelisto/, *rb",
+			"/Users/luka/kelisto/kelisto-pf-frontend",
+			"/Users/luka/kelisto/kelisto-comms",
+			"/Users/luka/kelisto/kelisto",
+			"/Users/luka/kelisto/kelisto-comms/app",
+			"/Users/luka/kelisto",
+			"/Users/luka/kelisto, *haml",
+			"/Users/luka/kelisto/kelisto",
+			"/Users/luka/kelisto/kelisto,*scss",
+			"/Users/luka/kelisto/kelisto-cam,*scss",
+			"/Users/luka/kelisto/kelisto,*scss",
+			"/Users/luka/kelisto/kelisto,*haml",
+			"/Users/luka/kelisto/kelisto,*scss",
+			"/Users/luka/kelisto/kelisto,*haml",
+			"/Users/luka/kelisto/kelisto,*scss",
+			"/Users/luka/kelisto/kelisto,*haml",
+			"/Users/luka/kelisto/kelisto,*ham",
+			"/Users/luka/kelisto/kelisto",
+			"/Users/luka/kelisto/kelisto, *haml",
+			"/Users/luka/kelisto/kelisto, *scss",
+			"/Users/luka/kelisto/kelisto, *rb",
+			"/Users/luka/kelisto/kelisto-pf-backend, *haml",
+			"/Users/luka/kelisto/kelisto-pf-backend",
+			"/Users/luka/kelisto/, *Gemfile",
+			"/Users/luka/kelisto/kelisto/app/assets/stylesheets/v2, *scss",
+			"/Users/luka/kelisto/kelisto/app/assets/stylesheets/v2/modules/, *scss",
+			"/Users/luka/kelisto/kelisto/app/assets/stylesheets/v2/modules/",
+			"/Users/luka/kelisto/kelisto/app/assets/stylesheets/v2/modules/shared",
+			"/Users/luka/kelisto/kelisto",
+			"/Users/luka/kelisto/header_footer",
+			"/Users/luka/kelisto/header_footer/app",
+			"/Users/luka/kelisto/header_footer/app/views/header/products",
+			"/Users/luka/kelisto/kelisto-cam/app/assets",
+			"/Users/luka/kelisto/kelisto-cam/app/assets/stylesheets",
+			"/Users/luka/kelisto/kelisto-cam",
+			"/Users/luka/kelisto/kelisto-cam/app",
+			"/Users/luka/kelisto/kelisto-cam/app/assets/stylesheets",
+			"/Users/luka/kelisto/,*scss",
+			"/Users/luka/kelisto/,*haml",
+			"/Users/luka/kelisto/kelisto",
+			"/Users/luka/kelisto/kelisto/app/assets/stylesheets/v2/modules/product_pages/comms",
+			"/Users/luka/kelisto/kelisto/app/assets/stylesheets/v2/modules/product_pages, *scss",
+			"/Users/luka/kelisto/kelisto/app/assets/stylesheets/v2/modules/product_pages/comms",
+			"/Users/luka/kelisto/kelisto/,*haml",
+			"/Users/luka/kelisto/kelisto/,*scss",
+			"/Users/luka/kelisto/kelisto/,*SCSS",
+			"/Users/luka/kelisto/kelisto/,*haml",
+			"/Users/luka/kelisto/kelisto/",
+			"/Users/luka/kelisto/kelisto/app/views/dynamic_pages/communication/shared",
+			"/Users/luka/kelisto/kelisto/app/views/dynamic_pages/communication/multiproduct",
+			"/Users/luka/kelisto/kelisto, *rb",
+			"/Users/luka/kelisto/kelisto, *haml",
+			"/Users/luka/kelisto/, *rb",
+			"/Users/luka/kelisto/, *haml",
+			"/Users/luka/kelisto/kelisto-pf-frontend",
+			"/Users/luka/kelisto/kelisto, *coffee",
+			"/Users/luka/kelisto/kelisto, *haml",
+			"/Users/luka/kelisto/, *rb",
+			"/Users/luka/kelisto/kelisto/app/",
+			"/Users/luka/kelisto/kelisto/app/, *rb",
+			"/Users/luka/kelisto/kelisto/app/assets/",
+			"/Users/luka/kelisto/kelisto/app/assets/stylesheets/v2/modules",
+			"/Users/luka/kelisto/kelisto-pf-frontend, *js",
+			"/Users/luka/kelisto/kelisto-pf-frontend, *coffee",
+			"/Users/luka/kelisto/kelisto-pf-frontend",
+			"/Users/luka/kelisto/kelisto",
+			"/Users/luka/kelisto/kelisto-comms/spec",
+			"/Users/luka/kelisto/kelisto-comms",
+			"/Users/luka/kelisto/kelisto-comms/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"http",
+			"Err",
+			"ERR",
+			"Err",
+			"ERR",
+			"http",
+			"ERR",
+			"Err",
+			"ERR",
+			"Err",
+			"ERR",
+			"http",
+			"Err",
+			"ERR",
+			"Err",
+			"ERR",
+			"Err",
+			"ERR",
+			"Err",
+			"ERR",
+			"Err",
+			"ERR",
+			"Fetching",
+			"v1",
+			"each",
+			".each",
+			"apiUrl:",
+			".3:",
+			".2",
+			"[",
+			"pry",
+			"2.0.",
+			"stringify",
+			"y-happ",
+			"happines",
+			"groceri",
+			"cityHappiness",
+			"happiness",
+			"name",
+			"apk name",
+			"groceri",
+			"happin",
+			"happ",
+			"happine",
+			"groceries",
+			"grocer",
+			"-",
+			"groceries",
+			"maxHeight",
+			"slider.",
+			"slider",
+			"maxHeight",
+			"bottomMax",
+			"sliderContainer",
+			"dragLabel",
+			"getactua",
+			" ",
+			"newPosition",
+			"note",
+			"%\"",
+			"0%",
+			"state",
+			"scrollContainer",
+			"value",
+			"bike",
+			"nav",
+			"primary-dark",
+			"llama",
+			"collection",
+			"Collection",
+			"collection",
+			"Collection",
+			"collection",
+			"Collection",
+			"collection",
+			"_data",
+			"communication_data",
+			"redirect_backbone_url_for_offer",
+			"to-red",
+			"table_row_template",
+			"pixel_fin",
+			"redirect_backbone_url_for_offer",
+			"condiciones",
+			"de privacidad",
+			"policy",
+			"34",
+			"phone",
+			"$el",
+			"el",
+			"form",
+			"boots",
+			"price",
+			", ",
+			", r",
+			"(d",
+			"call",
+			":javascripts",
+			"call",
+			"line_rental_text_helper",
+			"paddin",
+			"wrap",
+			"wrapper",
+			"font-url",
+			"offer-landing-page",
+			"'/",
+			"url",
+			"'B",
+			"'",
+			"@font",
+			"font",
+			"asset_path",
+			"assets_path",
+			":",
+			"footer",
+			"jazz",
+			"priva",
+			"perma",
+			"bootstrap",
+			"line_rental_text_helper",
+			"button-size",
+			"padding",
+			"price",
+			"month",
+			", ",
+			"ffba15",
+			"#ff7f0c",
+			"-4",
+			"."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			": '",
+			"\"",
+			"li",
+			"div",
+			"ul>li*5",
+			"5 ",
+			"@browser",
+			"caps",
+			"5",
+			"2-quotes",
+			"numOfPages",
+			"",
+			",\\n",
+			"calls",
+			"",
+			"price_per_month",
+			"http://png-3.findicons.com/files/icons/1676/primo/128/mobile.png",
+			"565656",
+			" + ",
+			"+",
+			" + ",
+			">",
+			"<",
+			"href=\"../\"",
+			"../\"",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								639,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Viajes Guamá-Havanatur",
+							"default_dir": "/Users/luka/projects/city-happiness",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/shared/config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								476,
+								476
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/create-statusXXX/create-status.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4007,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								135,
+								135
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/shared/view-models/status-view-model.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								422,
+								422
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								480,
+								480
+							]
+						],
+						"settings":
+						{
+							"auto_name": "JS: ERR: http://10.0.3.2:3000",
+							"default_dir": "/Users/luka/projects/city-happiness",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								119
+							]
+						],
+						"settings":
+						{
+							"auto_name": "ips = [\"http://10.0.3.2\", \"http://10.0.3.3\", \"http",
+							"default_dir": "/Users/luka/projects/city-happiness",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								167
+							]
+						],
+						"settings":
+						{
+							"auto_name": "ips = [\"http://10.0.3.2\",",
+							"default_dir": "/Users/luka/projects/city-happiness",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1314,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										143,
+										148
+									],
+									[
+										457,
+										461
+									],
+									[
+										728,
+										732
+									],
+									[
+										933,
+										937
+									],
+									[
+										1195,
+										1199
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								714,
+								749
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Users/luka/projects/city-happiness",
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ 	].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 187.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/luka/projects/city-happiness-api/config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/luka/Desktop/Few days ago my nativescript app (emulated in Geny",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1029,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1029,
+								1029
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Few days ago my nativescript app (emulated in Geny",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 584.0
+	},
+	"output.exec":
+	{
+		"height": 364.0
+	},
+	"output.find_results":
+	{
+		"height": 402.0
+	},
+	"output.git":
+	{
+		"height": 315.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 246.0
+	},
+	"pinned_build_system": "",
+	"project": "city-happiness.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"routesrb",
+				"city-happiness-api/config/routes.rb"
+			],
+			[
+				"route",
+				"city-happiness-api/config/routes.rb"
+			],
+			[
+				"routerb",
+				"city-happiness-api/config/routes.rb"
+			],
+			[
+				"confjs",
+				"city-happiness/app/shared/config.js"
+			],
+			[
+				"conf",
+				"city-happiness-api/config.ru"
+			],
+			[
+				"happ",
+				"city-happiness-api/app/models/happiness.rb"
+			],
+			[
+				"gemfi",
+				"city-happiness-api/Gemfile"
+			],
+			[
+				"apiroute",
+				"city-happiness-api/config/routes.rb"
+			],
+			[
+				"happi",
+				"city-happiness-api/app/models/happiness.rb"
+			],
+			[
+				"createcml",
+				"city-happiness/app/views/create-statusXXX/create-status.xml"
+			],
+			[
+				"createstatujs",
+				"app/views/create-statusXXX/create-status.js"
+			],
+			[
+				"android/settings.gradle",
+				"platforms/android/settings.gradle"
+			],
+			[
+				"manifexm",
+				"app/App_Resources/Android/AndroidManifest.xml"
+			],
+			[
+				"appj",
+				"app/app.js"
+			],
+			[
+				"appjs",
+				"app/app.js"
+			],
+			[
+				"cretestatujs",
+				"app/views/__create-status2/create-status.js"
+			],
+			[
+				"redirelink",
+				"kelisto/kelisto-comms/app/views/communications/shared/_redirect_link.haml"
+			],
+			[
+				"commredirelink",
+				"kelisto/kelisto-comms/app/views/communications/shared/_redirect_link.haml"
+			],
+			[
+				"communications/table",
+				"kelisto/kelisto-comms/app/views/communications/_table.haml"
+			],
+			[
+				"commhel",
+				"kelisto/kelisto-comms/app/helpers/communications_helper.rb"
+			],
+			[
+				"jazzfoo",
+				"kelisto/kelisto-comms/app/views/offer_landing_pages/_jazztel_footer.haml"
+			],
+			[
+				"cmbcontr",
+				"kelisto/kelisto-comms/app/controllers/api/v2/cmb_controller.rb"
+			],
+			[
+				"commgemfi",
+				"kelisto/kelisto-comms/Gemfile"
+			],
+			[
+				"commcmbcontro",
+				"kelisto/kelisto-comms/app/controllers/api/v2/cmb_controller.rb"
+			],
+			[
+				"commredirrb",
+				"kelisto/kelisto-comms/app/controllers/redirect_controller.rb"
+			],
+			[
+				"commroutes",
+				"kelisto/kelisto-comms/config/routes.rb"
+			],
+			[
+				"commapplicrb",
+				"kelisto/kelisto-comms/config/application.rb"
+			],
+			[
+				"commapprb",
+				"kelisto/kelisto/spec/support/features/comms_api_helpers.rb"
+			],
+			[
+				"commrout",
+				"kelisto/kelisto-comms/config/routes.rb"
+			],
+			[
+				"applirb",
+				"kelisto/kelisto-comms/config/application.rb"
+			],
+			[
+				"commapplic",
+				"kelisto/kelisto-comms/config/application.rb"
+			],
+			[
+				"jazzhe",
+				"kelisto/kelisto-comms/app/views/offer_landing_pages/_jazztel_header.haml"
+			],
+			[
+				"commapplirb",
+				"kelisto/kelisto-comms/config/application.rb"
+			],
+			[
+				"commappli",
+				"kelisto/kelisto-comms/config/application.rb"
+			],
+			[
+				"fonts",
+				"kelisto/kelisto/app/views/layouts/_async_fonts.haml"
+			],
+			[
+				"landincontr",
+				"kelisto/kelisto-comms/app/controllers/offer_landing_pages_controller.rb"
+			],
+			[
+				"kelisgemfi",
+				"kelisto/kelisto/Gemfile"
+			],
+			[
+				"visual_web_optimizer",
+				"kelisto/kelisto-comms/app/views/shared/_visual_web_optimizer.html"
+			],
+			[
+				"commsrout",
+				"kelisto/kelisto-comms/config/routes.rb"
+			],
+			[
+				"app/views/mortgages/help_processes/new.html.haml",
+				"kelisto/kelisto-pf-frontend/app/views/mortgages/help_processes/new.html.haml"
+			],
+			[
+				"app/controllers/mortgages/help_processes_controller.rb",
+				"kelisto/kelisto-pf-frontend/app/controllers/mortgages/help_processes_controller.rb"
+			],
+			[
+				"stylesheets/v2/modules/landing_ks/_gss.scss",
+				"kelisto/kelisto-pf-frontend/app/assets/stylesheets/v2/modules/landing_ks/_gss.scss"
+			],
+			[
+				"headernavigacoff",
+				"kelisto/header_footer/app/assets/javascripts/header/kelisto_navigation.coffee"
+			],
+			[
+				"headerfoonavi",
+				"kelisto/header_footer/app/assets/javascripts/header/kelisto_navigation.coffee"
+			],
+			[
+				"navigacoff",
+				"kelisto/kelisto-assets/app/assets/javascripts/navigation.coffee"
+			],
+			[
+				"headerversio",
+				"kelisto/header_footer/lib/header_footer/version.rb"
+			],
+			[
+				"headerfootheadscss",
+				"kelisto/header_footer/app/assets/stylesheets/header/_header_v2.css.scss"
+			],
+			[
+				"headerheaham",
+				"kelisto/header_footer/app/views/header/_header.html.haml"
+			],
+			[
+				"kelikelistogemf",
+				"kelisto/kelisto/Gemfile"
+			],
+			[
+				"homepagescss",
+				"kelisto/kelisto/app/assets/stylesheets/v2/modules/homepage/_homepage_shared.scss"
+			],
+			[
+				"homtopbo",
+				"kelisto/kelisto/app/views/refinery/pages/_home_top_box.html.haml"
+			],
+			[
+				"kelismixpspe",
+				"kelisto/kelisto/spec/features/mixpanel_spec.rb"
+			],
+			[
+				"homecar",
+				"kelisto/kelisto/app/views/homepage/_homepage_top_box_car_insurance.haml"
+			],
+			[
+				"cookievr",
+				"kelisto/cookies_eu/lib/cookies_eu/version.rb"
+			],
+			[
+				"headerfooterheadscss",
+				"kelisto/header_footer/app/assets/stylesheets/header/_header_v2.css.scss"
+			],
+			[
+				"kelstokelisgemfi",
+				"kelisto/kelisto/Gemfile"
+			],
+			[
+				"homehowit",
+				"kelisto/kelisto/app/views/homepage/_homepage_how_it_works.haml"
+			],
+			[
+				"homecoffee",
+				"kelisto/kelisto/app/assets/javascripts/homepage.coffee"
+			],
+			[
+				"homepage_top_box_car_insurance",
+				"kelisto/kelisto/app/views/homepage/_homepage_top_box_car_insurance.haml"
+			],
+			[
+				"hometopham",
+				"kelisto/kelisto/app/views/homepage/_homepage_top_box.haml"
+			],
+			[
+				"kelistokelistanimascss",
+				"kelisto/kelisto/app/assets/stylesheets/v2/global/_animate.scss"
+			],
+			[
+				"hometopscss",
+				"kelisto/kelisto/app/assets/stylesheets/v2/modules/homepage/_homepage_top_module.scss"
+			],
+			[
+				"topboxscss",
+				"kelisto/kelisto/app/assets/stylesheets/v2/modules/product_pages/_top_box.scss"
+			],
+			[
+				"homepage_top_box_internet",
+				"kelisto/kelisto/app/views/homepage/_homepage_top_box_internet.haml"
+			],
+			[
+				"homepage_top_box_accounts",
+				"kelisto/kelisto/app/views/homepage/_homepage_top_box_accounts.haml"
+			],
+			[
+				"refinhomham",
+				"kelisto/kelisto/app/views/refinery/pages/home.html.haml"
+			],
+			[
+				"kelistokelimixpanespe",
+				"kelisto/kelisto/spec/features/mixpanel_spec.rb"
+			],
+			[
+				"homehowi",
+				"kelisto/kelisto/app/views/homepage/_homepage_how_it_works.haml"
+			],
+			[
+				"howi",
+				"kelisto/kelisto/app/views/homepage/_homepage_how_it_works.haml"
+			],
+			[
+				"hoemtopscss",
+				"kelisto/kelisto/app/assets/stylesheets/v2/modules/homepage/_homepage_top_module.scss"
+			],
+			[
+				"homtopboxca",
+				"kelisto/kelisto/app/views/homepage/_homepage_top_box_car_insurance.haml"
+			],
+			[
+				"spec/rack/seo_redirect_spec.rb",
+				"kelisto/kelisto/spec/rack/seo_redirect_spec.rb"
+			],
+			[
+				"topboxaccount",
+				"kelisto/kelisto/app/views/homepage/_homepage_top_box_accounts.haml"
+			],
+			[
+				"keliskelisgemfi",
+				"kelisto/kelisto/Gemfile"
+			],
+			[
+				"spechel",
+				"kelisto/kelisto/spec/spec_helper.rb"
+			],
+			[
+				"testrb",
+				"kelisto/kelisto/config/environments/test.rb"
+			],
+			[
+				"develorb",
+				"kelisto/kelisto/config/environments/development.rb"
+			],
+			[
+				"mixpspe",
+				"kelisto/kelisto/spec/features/mixpanel_spec.rb"
+			],
+			[
+				"hometopcar",
+				"kelisto/kelisto/app/views/homepage/_homepage_top_box_car_insurance.haml"
+			],
+			[
+				"hometop",
+				"kelisto/kelisto/app/views/homepage/_homepage_top_box.haml"
+			],
+			[
+				"spec/features/mixpanel_spec.rb",
+				"kelisto/kelisto/spec/features/mixpanel_spec.rb"
+			],
+			[
+				"howitwoscss",
+				"kelisto/kelisto/app/assets/stylesheets/v2/modules/homepage/_homepage_how_it_works.scss"
+			],
+			[
+				"async_fonts",
+				"kelisto/kelisto/app/views/layouts/_async_fonts.haml"
+			],
+			[
+				"headeerfooterhaml",
+				"kelisto/header_footer/app/views/footer/_footer.html.haml"
+			],
+			[
+				"homehowscss",
+				"kelisto/kelisto/app/assets/stylesheets/v2/modules/homepage/_homepage_how_it_works.scss"
+			],
+			[
+				"howitscss",
+				"kelisto/kelisto/tmp/cache/sass/3916545d3ce604fdd24d3986a92138136b622599/_homepage_how_it_works.scssc"
+			],
+			[
+				"kelistokelianim",
+				"kelisto/kelisto/app/assets/stylesheets/v2/global/_animate.scss"
+			],
+			[
+				"kelistokelisgemfi",
+				"kelisto/kelisto/Gemfile"
+			],
+			[
+				"headever",
+				"kelisto/header_footer/lib/header_footer/version.rb"
+			],
+			[
+				"v2/global/_buttons.scss",
+				"kelisto/kelisto/app/assets/stylesheets/v2/global/_buttons.scss"
+			],
+			[
+				"camenv",
+				"kelisto/kelisto-cam/.env"
+			],
+			[
+				"kelisto.env",
+				"kelisto/kelisto/.env"
+			],
+			[
+				"cam.env",
+				"kelisto/kelisto-cam/.env"
+			],
+			[
+				"kelistogemfil",
+				"kelisto/kelisto/Gemfile"
+			],
+			[
+				"kelisthomepagetopscss",
+				"kelisto/kelisto/app/assets/stylesheets/v2/modules/homepage/_homepage_top_module.scss"
+			],
+			[
+				"pf_cardsha",
+				"kelisto/kelisto/app/views/layouts/modules/saving_message/_pf_cards.haml"
+			],
+			[
+				"modules/article/_article_compare_cta_pf_gss.scss",
+				"kelisto/kelisto/app/assets/stylesheets/v2/modules/article/_article_compare_cta_pf_gss.scss"
+			],
+			[
+				"financcontr",
+				"kelisto/kelisto/app/controllers/finance_controller.rb"
+			],
+			[
+				"mortgagehelpprocessform",
+				"kelisto/kelisto-pf-frontend/app/forms/mortgage_help_process_form.rb"
+			],
+			[
+				"mixpanehaml",
+				"kelisto/kelisto-whitelabel/app/views/shared/_mixpanel.html.haml"
+			],
+			[
+				"choohaml",
+				"kelisto/kelisto/app/views/communications/php_top_modules/_top_box_telefonia_movil_chooser.haml"
+			],
+			[
+				"/article/_article_pf_best_buy_tables.scss",
+				"kelisto/kelisto/app/assets/stylesheets/v2/modules/article/_article_pf_best_buy_tables.scss"
+			],
+			[
+				"modules/article/_article_content.scss",
+				"kelisto/kelisto/app/assets/stylesheets/v2/modules/article/_article_content.scss"
+			],
+			[
+				"/modules/article/_article_compare_cta.scss",
+				"kelisto/kelisto/app/assets/stylesheets/v2/modules/article/_article_compare_cta.scss"
+			],
+			[
+				"headervers",
+				"kelisto/header_footer/lib/header_footer/version.rb"
+			],
+			[
+				"product_pages/_providers_logos.scss",
+				"kelisto/kelisto/app/assets/stylesheets/v2/modules/product_pages/_providers_logos.scss"
+			],
+			[
+				"/modules/product_pages/_providers_logos.scss",
+				"kelisto/kelisto/app/assets/stylesheets/v2/modules/product_pages/_providers_logos.scss"
+			],
+			[
+				"header/products/telefonia_movil",
+				"kelisto/header_footer/app/views/header/products/_telefonia_movil.haml"
+			],
+			[
+				"header/products/internet_telefonia",
+				"kelisto/header_footer/app/views/header/products/_internet_telefonia.haml"
+			],
+			[
+				"headeheadeham",
+				"kelisto/header_footer/app/views/header/_header.html.haml"
+			],
+			[
+				"choose",
+				"kelisto/kelisto/app/assets/javascripts/modules/comms/telefonia_movil_chooser.coffee"
+			],
+			[
+				"mediaque",
+				"kelisto/fancy_login/app/assets/stylesheets/fancy_login/_mediaqueries.scss"
+			],
+			[
+				"app/views/homepage/_homepage_top_box.haml",
+				"kelisto/kelisto/app/views/homepage/_homepage_top_box.haml"
+			],
+			[
+				"app/views/homepage/_homepage_how_it_works.haml",
+				"kelisto/kelisto/app/views/homepage/_homepage_how_it_works.haml"
+			],
+			[
+				"app/assets/stylesheets/v2/modules/homepage/_homepage_how_it_works.scss",
+				"kelisto/kelisto/app/assets/stylesheets/v2/modules/homepage/_homepage_how_it_works.scss"
+			],
+			[
+				"___homepage_no_commissions.scss",
+				"kelisto/kelisto/app/assets/stylesheets/v2/modules/homepage/_____homepage_no_commissions.scss"
+			],
+			[
+				"v2/modules/homepage/_homepage_content_links.scss",
+				"kelisto/kelisto/app/assets/stylesheets/v2/modules/homepage/_homepage_content_links.scss"
+			],
+			[
+				"app/assets/javascripts/homepage.coffee",
+				"kelisto/kelisto/app/assets/javascripts/homepage.coffee"
+			],
+			[
+				"javascripts/homepage.coffee",
+				"kelisto/kelisto/app/assets/javascripts/homepage.coffee"
+			],
+			[
+				"homepage/_homepage_top_module.scss",
+				"kelisto/kelisto/app/assets/stylesheets/v2/modules/homepage/_homepage_top_module.scss"
+			],
+			[
+				"kelistracolo",
+				"kelisto/kelistrap/app/assets/stylesheets/kelistrap/global/_colors.scss"
+			],
+			[
+				"homepage/homepage_top_box",
+				"kelisto/kelisto/app/views/homepage/_homepage_top_box.haml"
+			],
+			[
+				"headversio",
+				"kelisto/header_footer/lib/header_footer/version.rb"
+			],
+			[
+				"camgemfi",
+				"kelisto/kelisto-cam/Gemfile"
+			],
+			[
+				"homepage/homepage_how_it_works",
+				"kelisto/kelisto/app/views/homepage/_homepage_how_it_works.haml"
+			],
+			[
+				"headerhelper",
+				"kelisto/header_footer/app/helpers/login_helper.rb"
+			],
+			[
+				"camgemf",
+				"kelisto/kelisto-cam/Gemfile.lock"
+			],
+			[
+				"headergemfile",
+				"kelisto/header_footer/Gemfile.lock"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "ke",
+		"selected_items":
+		[
+			[
+				"ke",
+				"~/kelisto/kelisto.sublime-project"
+			],
+			[
+				"kelis",
+				"~/kelisto/kelisto.sublime-project"
+			],
+			[
+				"stree",
+				"~/projects/street-notes-backend/app/controllers/api/v1/street-notes.sublime-project"
+			],
+			[
+				"note",
+				"~/projects/street-notes-backend/app/controllers/api/v1/street-notes.sublime-project"
+			],
+			[
+				"keli",
+				"~/kelisto/kelisto.sublime-project"
+			],
+			[
+				"sha",
+				"~/sharemos/rent-it-all.sublime-project"
+			],
+			[
+				"sh",
+				"/Users/luka/Documents/sharemos.sublime-project"
+			],
+			[
+				"angu",
+				"/Users/luka/projects/angular-tutorial/angular.sublime-project"
+			],
+			[
+				"shar",
+				"/Users/luka/Documents/sharemos.sublime-project"
+			],
+			[
+				"share",
+				"/Users/luka/Documents/sharemos.sublime-project"
+			],
+			[
+				"share lo",
+				"/Users/luka/Documents/sharemos.sublime-project"
+			],
+			[
+				"ang",
+				"/Users/luka/projects/angular-tutorial/angular.sublime-project"
+			],
+			[
+				"an",
+				"/Users/luka/kelisto/kelisto/config/angular.sublime-project"
+			],
+			[
+				"seg",
+				"/Users/luka/projects/luigi7up2.sublime-project"
+			],
+			[
+				"kel",
+				"/Users/luka/kelisto/kelisto.sublime-project"
+			],
+			[
+				"lui",
+				"/Users/luka/projects/luigi7up2.sublime-project"
+			],
+			[
+				"sharem",
+				"/Users/luka/Documents/sharemos.sublime-project"
+			],
+			[
+				"sharemos",
+				"/Users/luka/Documents/sharemos.sublime-project"
+			],
+			[
+				"kelisto ",
+				"/Users/luka/kelisto/kelisto.sublime-project"
+			],
+			[
+				"",
+				"/Users/luka/luigi7up/luigi7up.sublime-project"
+			],
+			[
+				"hs",
+				"/Users/luka/Documents/sharemos.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
