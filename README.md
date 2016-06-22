@@ -24,4 +24,8 @@ To debug just attach debugger to the running app:
 
 `tns debug android --start`
 
+TIP: 
+
+Remember to turn off the nginx listening at the same port as debugger
+
 TIP: If your XML gets "broken" and after fixing it your app still isn't working try renaming the view's folder as this should avoid the cached version of it. Later rename it back ;)
