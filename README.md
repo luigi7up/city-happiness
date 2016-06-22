@@ -8,8 +8,11 @@ You will need to install
 - virtualbox
 
 1 Start genymotion and create a new device
+
 2 Start the new device / emulator in the genymotion
+
 3 Go to the app's root and start your app in the emulator
+
 
 `tns livesync android --watch`
 
